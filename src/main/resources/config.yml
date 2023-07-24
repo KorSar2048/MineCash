@@ -1,0 +1,13 @@
+worlds:
+  - "world"
+regions:
+  - "mine"
+  - "test"
+  - "test2"
+blocks:
+  IRON_ORE:
+    money: 20.0
+    rand:  0.5
+  COAL_ORE:
+    money: 10.0
+    rand: 0.3

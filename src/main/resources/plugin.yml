@@ -1,0 +1,6 @@
+name: MineCash
+version: '${project.version}'
+main: probation.minecash.MineCash
+api-version: 1.16
+prefix: Mine
+depend: [ Vault, WorldGuard ]
